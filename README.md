@@ -10,7 +10,7 @@ If this is your first time at a hackathon or coding past ECSE 202 or COMP 202, i
 - [What's an API?](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82) - Learn how to use external services in your projects.
 - [A Beginner’s Guide to HTTP and REST](https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340) - A more in-depth guide on how to use REST APIs.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - An in-depth series of tutorials to learn how to code in Python. If you don't know what language to use, Python is a good start!
-- [Roadmap to Fullstack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a) - Web projects are some of the easiest to make during a hackathon. Learn more about different technologies that are commonly used! BROKEN, FIND ALTERNATIVE?
+- [Roadmap to Fullstack Web Development](https://roadmap.sh/full-stack) - Web projects are some of the easiest to make during a hackathon. Learn more about different technologies that are commonly used!
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) - If you want to ramp up quick on machine learning.
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) - A beginner-friendly prediction competition.
 
